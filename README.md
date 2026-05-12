@@ -34,6 +34,8 @@ Example alert scenarios:
 
 ## Project Preview
 
+<img width="1898" height="911" alt="Снимок экрана 2026-05-12 195849" src="https://github.com/user-attachments/assets/6e36577d-925e-49c8-bf23-40513b227b5f" />
+
 ## Installation
 
 ```bash
