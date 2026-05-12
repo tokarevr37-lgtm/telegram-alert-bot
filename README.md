@@ -4,7 +4,7 @@ A Python automation bot for sending Telegram alerts and workflow notifications.
 
 ## Output Preview
 
-<img width="1850" height="1029" alt="Снимок экрана 2026-05-12 195634" src="https://github.com/user-attachments/assets/ee88090c-d985-4e5b-b77a-d66b422fd1c4" />
+<img width="1850" alt="Снимок экрана 2026-05-12 195634" src="https://github.com/user-attachments/assets/ee88090c-d985-4e5b-b77a-d66b422fd1c4" />
 
 ## What this project does
 
@@ -34,7 +34,7 @@ Example alert scenarios:
 
 ## Project Preview
 
-<img width="1898" height="911" alt="Снимок экрана 2026-05-12 195849" src="https://github.com/user-attachments/assets/6e36577d-925e-49c8-bf23-40513b227b5f" />
+<img width="1000" alt="Снимок экрана 2026-05-12 195849" src="https://github.com/user-attachments/assets/6e36577d-925e-49c8-bf23-40513b227b5f" />
 
 ## Installation
 
